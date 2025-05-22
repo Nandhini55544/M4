@@ -46,7 +46,7 @@ Write a C program to input number from the user and check whether the number is 
 
 
 ## ALGORITHM
-
+```
 1.Start.
 2.Input a number from the user.
 3.Find the remainder when the number is divided by 2 (i.e., number % 2).
@@ -55,7 +55,7 @@ Write a C program to input number from the user and check whether the number is 
 6.If remainder is 1, it’s odd.
 7.Display the result.
 8.End.
-
+```
 ## PROGRAM
 ```
 #include<stdio.h>
@@ -160,6 +160,7 @@ Thus the program to count the total number of words in a given string using Whil
 ## AIM
 write a Program to compare two strings without using strcmp().
 ## ALGORITHM
+```
 Step 1: Start the program.
 Step 2: Declare two character arrays c1 and c2 of size 100 to store the strings. Also, declare an integer variable
              flag and initialize it to 0, and i for indexing.      
@@ -175,7 +176,7 @@ Step 7: After the loop, check the value of flag:
 •	If flag == 0, print "strings are same".
 •	Otherwise, print "strings are not same".
 Step 8: End the program.
-
+```
 ## PROGRAM
 ```
 #include <stdio.h>  
